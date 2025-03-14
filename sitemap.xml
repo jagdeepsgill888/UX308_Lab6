@@ -12,12 +12,12 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
+            http://localhost:8000/products/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/
+            http://localhost:8000/about/
         </loc>
     </url>
     <url>
@@ -28,6 +28,11 @@
     <url>
         <loc>
             http://localhost:8000/products/power-up-breakfast-bagel/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/asiago-breakfast-bagel/
         </loc>
     </url>
     <url>
